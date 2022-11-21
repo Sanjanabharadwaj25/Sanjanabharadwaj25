@@ -12,9 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjanabharadwaj25&theme=blue-green&hide_border=false&count_private=true&include_all_commits=true)<br/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
